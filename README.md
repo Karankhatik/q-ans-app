@@ -1,9 +1,9 @@
-# q-ans-app
+# q-and-app
 Features:
 - React-based frontend with Bootstrap for responsive UI design
 - Node.js backend using Express framework for creating APIs
 - Integration with an open API to fetch data based on user queries
-- Communication between frontend and backend using API requests
+- Communication between front and backend using API requests
 - Error handling and security considerations implemented
 - Optimized performance for efficient data retrieval and rendering
 
@@ -24,7 +24,7 @@ Usage:
 5. Access the application: Open a web browser and navigate to the provided URL.
 
 Contributing:
-We welcome contributions to enhance the functionality, fix bugs, or improve performance. To contribute, please fork the repository, make your changes, and submit a pull request with a detailed description of your modifications.
+I welcome contributions to enhance functionality, fix bugs, or improve performance. To contribute, please fork the repository, make your changes, and submit a pull request with a detailed description of your modifications.
 
 
 Contact:
